@@ -29,6 +29,7 @@ Diseñar e implementar una aplicación web empresarial que permita administrar:
 
 ---
 
+
 ## 📂 Estructura del repositorio
 stockmaster/
 ├─ backend/ # Código fuente de la aplicación Spring Boot
@@ -51,6 +52,8 @@ stockmaster/
 │
 ├─ pom.xml
 └─ README.md
+
+
 
 yaml
 Copiar código
